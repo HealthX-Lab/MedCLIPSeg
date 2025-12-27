@@ -71,18 +71,18 @@ Results reported below show DSC scores (%) for data efficiency and domain genera
 
 | **Method** | **ID** | **OOD** | **HM** |
 |-----------|:--------------------:|:---------------------:|:-----------------:|
-| [LViT](https://arxiv.org/abs/2206.14718) | 83.31 | 65.21 | 73.16 |
-| [Ariadne’s Thread](https://arxiv.org/abs/2307.03942) | 68.75 | 27.18 | 38.95 |
-| [CLIPSeg](https://arxiv.org/abs/2112.10003) | 84.95 | 70.03 | 76.78 |
-| [DenseCLIP](https://arxiv.org/abs/2112.01518) | 77.44 | 59.21 | 67.10 |
-| [ZegCLIP](https://arxiv.org/abs/2212.03588) | 77.66 | 63.05 | 69.60 |
-| [SAN](https://arxiv.org/abs/2302.12242) | 84.95 | 72.08 | 78.00 |
-| [MaPLe](https://arxiv.org/abs/2210.03117) | 76.55 | 60.22 | 67.38 |
-| [MaPLe + Decoder](https://arxiv.org/abs/2210.03117) | 84.78 | 65.58 | 73.02 |
-| [VLSM-Adapter](https://arxiv.org/abs/2405.06196) | 85.78 | 73.35 | 79.07 |
-| [CausalCLIPSeg](https://arxiv.org/abs/2503.15949) | 81.52 | 53.13 | 64.35 |
-| [CAT-Seg](https://arxiv.org/abs/2303.11797) | 86.10 | 74.77 | 80.04 |
-| **[MedCLIPSeg (Ours)](https://arxiv.org/abs/XXXX.XXXXX)** | **89.11** | **79.11** | **83.82** |
+| [LViT](https://arxiv.org/abs/2206.14718) | 83.31 | 64.99 | 73.02 |
+| [Ariadne’s Thread](https://arxiv.org/abs/2307.03942) | 68.25 | 27.23 | 38.93 |
+| [CLIPSeg](https://arxiv.org/abs/2112.10003) | 84.95 | 69.22 | 76.28 |
+| [DenseCLIP](https://arxiv.org/abs/2112.01518) | 77.69 | 58.11 | 66.49 |
+| [ZegCLIP](https://arxiv.org/abs/2212.03588) | 77.16 | 61.33 | 68.34 |
+| [SAN](https://arxiv.org/abs/2302.12242) | 84.45 | 69.87 | 76.47 |
+| [MaPLe](https://arxiv.org/abs/2210.03117) | 76.55 | 59.30 | 66.83 |
+| [MaPLe + Decoder](https://arxiv.org/abs/2210.03117) | 84.78 | 66.85 | 74.76 |
+| [VLSM-Adapter](https://arxiv.org/abs/2405.06196) | 85.78 | 73.28 | 79.04 |
+| [CausalCLIPSeg](https://arxiv.org/abs/2503.15949) | 81.52 | 53.86 | 64.86 |
+| [CAT-Seg](https://arxiv.org/abs/2303.11797) | 86.10 | 74.57 | 79.92 |
+| **[MedCLIPSeg (Ours)](https://arxiv.org/abs/XXXX.XXXXX)** | **89.11** | **79.02** | **83.76** |
 
 ### Segmentation and Uncertainty Visualization
 
