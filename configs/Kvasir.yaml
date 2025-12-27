@@ -1,0 +1,30 @@
+DATASET:
+  NAME: "Kvasir"
+  TRAIN_PATH: "./data/Kvasir/Train_Folder/"
+  VAL_PATH: "./data/Kvasir/Val_Folder/"
+  TEST_PATH: "./data/Kvasir/Test_Folder/"
+  TEXT_PROMPT_PATH: "./data/Kvasir/Prompts_Folder/"
+  SIZE: 224
+
+TRAIN:
+  BATCH_SIZE: 24
+  NUM_EPOCHS: 100
+  LEARNING_RATE: 0.0003
+  DICE_WEIGHT: 0.5
+  CE_WEIGHT: 0.5
+  CLIP_WEIGHT: 0.1
+  
+TEST:
+  NUM_SAMPLES: 30
+  USE_LATEST: True
+
+MODEL:
+  CLIP_MODEL: unimedclip
+  BACKBONE: "ViT-B/16"
+  ADAPTER_DIM: 256
+  NUM_UPSCALE: 2
+  BETA: 2.35
+  GATE_INIT: 0.0
+  LAYERS: [1,2,3,4,5,6,7,8,9,10]
+  TEMPERATURE: 0.2
+  DEVICE: "cuda"

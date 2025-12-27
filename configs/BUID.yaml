@@ -1,0 +1,22 @@
+DATASET:
+  NAME: "BUID"
+  TRAIN_PATH: "./data/BUID/Train_Folder/"
+  VAL_PATH: "./data/BUID/Val_Folder/"
+  TEST_PATH: "./data/BUID/Test_Folder/"
+  TEXT_PROMPT_PATH: "./data/BUID/Prompts_Folder/"
+  SIZE: 224
+  
+TEST:
+  NUM_SAMPLES: 30
+  USE_LATEST: True
+
+MODEL:
+  CLIP_MODEL: unimedclip
+  BACKBONE: "ViT-B/16"
+  ADAPTER_DIM: 256
+  NUM_UPSCALE: 2
+  BETA: 2.35
+  GATE_INIT: 0.0
+  LAYERS: [1,2,3,4,5,6,7,8,9,10]
+  TEMPERATURE: 0.2
+  DEVICE: "cuda"
