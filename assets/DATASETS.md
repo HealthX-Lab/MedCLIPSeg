@@ -62,7 +62,7 @@ These prompt files enable flexible evaluation under different supervision regime
 
 
 ### Download the datasets
-All the datasets can be found on Hugging Face [here](https://huggingface.co/datasets/TahaKoleilat/BiomedCoOp/tree/main). Download each dataset seperately:
+All the datasets can be found on Hugging Face [here](https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg). Download each dataset seperately:
 
 - <b>BUSI</b> [Hugging Face](https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg/blob/main/BUSI.zip)
 - <b>BTMRI</b> [Hugging Face](https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg/blob/main/BTMRI.zip)

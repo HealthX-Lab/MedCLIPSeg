@@ -6,7 +6,7 @@
 [![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2411.15232)
 [![Website](https://img.shields.io/badge/Website-Project%20Page-brightgreen.svg)](https://tahakoleilat.github.io/MedCLIPSeg)
 [![Datasets](https://img.shields.io/badge/Datasets-Access-yellow.svg)](https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg)
-[![Models](https://img.shields.io/badge/Models-Reproduce-orange.svg)](https://huggingface.co/TahaKoleilat/BiomedCoOp)
+[![Models](https://img.shields.io/badge/Models-Reproduce-orange.svg)](https://huggingface.co/TahaKoleilat/MedCLIPSeg)
 [![BibTeX](https://img.shields.io/badge/BibTeX-Cite-blueviolet.svg)](#citation)
 
 ## Overview
@@ -98,7 +98,7 @@ Results reported below show DSC scores (%) for data efficiency and domain genera
 </p>
 
 ## Model Checkpoints
-All the checkpoints can be found on the official [Hugging Face repo](https://huggingface.co/TahaKoleilat/MedCLIPSeg/tree/main) for the Data Efficiency and Domain Generalization evaluation benchmarks. Take a look [here]() to see how to run and reproduce all the results.
+All the checkpoints can be found on the official [Hugging Face repo](https://huggingface.co/TahaKoleilat/MedCLIPSeg) for the Data Efficiency and Domain Generalization evaluation benchmarks. Take a look [here](https://github.com/HealthX-Lab/MedCLIPSeg/blob/main/assets/RUN.md#2-running-evaluation-from-given-checkpoints) to see how to run and reproduce all the results.
 
 ## Installation 
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](assets/INSTALL.md). 

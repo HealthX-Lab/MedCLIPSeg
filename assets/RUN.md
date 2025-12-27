@@ -6,13 +6,13 @@ Below we provide training and evaluation instructions for MedCLIPSeg. The same i
 
 
 ### Training time and compute
-We train BiomedCoOp on each dataset with a batch size of 24 using a **single** NVIDIA A100 GPU (40 GB RAM).
+We train MedCLIPSeg on each dataset with a batch size of 24 using a **single** NVIDIA A100 GPU (40 GB RAM).
 
 ### Configs
 
 The default training settings are provided in the config files at [configs/](). All hyper-parameters can be modified using this config file.
 
-## BiomedCoOp
+## MedCLIPSeg
 
 #### (1) Data Efficiency evaluation setting
 
