@@ -1,12 +1,15 @@
 # MedCLIPSeg: Probabilistic Vision–Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
+
+<h3>CVPR 2026</h3>
+
 **[Health-X Lab](http://www.healthx-lab.ca/)** | **[IMPACT Lab](https://users.encs.concordia.ca/~impact/)** 
 
 [Taha Koleilat](https://tahakoleilat.github.io/), 
 [Hojat Asgariandehkordi](https://scholar.google.com/citations?user=ndXNye4AAAAJ&hl=en), 
 [Omid Nejati Manzari](https://omid-nejati.github.io/), 
 [Berardino Barile](https://scholar.google.com/citations?user=odmpMGcAAAAJ&hl=en), 
-[Yiming Xiao†](https://yimingxiao.weebly.com/curriculum-vitae.html), 
-[Hassan Rivaz†](https://users.encs.concordia.ca/~hrivaz/)
+[Yiming Xiao](https://yimingxiao.weebly.com/curriculum-vitae.html)<sup>†</sup>, 
+[Hassan Rivaz](https://users.encs.concordia.ca/~hrivaz/)<sup>†</sup>
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2602.20423)
 [![Website](https://img.shields.io/badge/Website-Project%20Page-brightgreen.svg)](https://tahakoleilat.github.io/MedCLIPSeg)
@@ -14,7 +17,7 @@
 [![Models](https://img.shields.io/badge/Models-Reproduce-orange.svg)](https://huggingface.co/TahaKoleilat/MedCLIPSeg)
 [![BibTeX](https://img.shields.io/badge/BibTeX-Cite-blueviolet.svg)](#citation)
 
-† Co-senior authors
+† *Co-senior authors*
 
 ## Overview
 
