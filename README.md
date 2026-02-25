@@ -3,7 +3,7 @@
 
 [Taha Koleilat](https://tahakoleilat.github.io/), [Hojat Asgariandehkordi](https://scholar.google.com/citations?user=ndXNye4AAAAJ&hl=en), [Omid Nejati Manzari](https://omid-nejati.github.io/), [Berardino Barile](https://scholar.google.com/citations?user=odmpMGcAAAAJ&hl=en), [Yiming Xiao](https://yimingxiao.weebly.com/curriculum-vitae.html), [Hassan Rivaz](https://users.encs.concordia.ca/~hrivaz/)
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2411.15232)
+[![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2602.20423)
 [![Website](https://img.shields.io/badge/Website-Project%20Page-brightgreen.svg)](https://tahakoleilat.github.io/MedCLIPSeg)
 [![Datasets](https://img.shields.io/badge/Datasets-Access-yellow.svg)](https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg)
 [![Models](https://img.shields.io/badge/Models-Reproduce-orange.svg)](https://huggingface.co/TahaKoleilat/MedCLIPSeg)
@@ -117,7 +117,7 @@ If you use our work, please consider citing:
 @inproceedings{koleilat2026medclipseg,
   title     = {MedCLIPSeg: Probabilistic Vision--Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation},
   author    = {Koleilat, Taha and Asgariandehkordi, Hojat, Nejatimanzari, Omid and Barile, Berardino and Xiao, Yiming and Rivaz, Hassan},
-  booktitle = {},
+  booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference},
   year      = {2026}
 }
 ```
