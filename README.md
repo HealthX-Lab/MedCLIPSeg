@@ -1,5 +1,5 @@
 # MedCLIPSeg: Probabilistic Vision–Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
-
+<div align="center">
 <h3>CVPR 2026</h3>
 
 **[Health-X Lab](http://www.healthx-lab.ca/)** | **[IMPACT Lab](https://users.encs.concordia.ca/~impact/)** 
@@ -18,6 +18,7 @@
 [![BibTeX](https://img.shields.io/badge/BibTeX-Cite-blueviolet.svg)](#citation)
 
 † *Co-senior authors*
+</div>
 
 ## Overview
 
@@ -124,11 +125,11 @@ Please refer to the [RUN.md](assets/RUN.md) for detailed instructions on trainin
 ## Citation
 If you use our work, please consider citing:
 ```bibtex
-@inproceedings{koleilat2026medclipseg,
-  title     = {MedCLIPSeg: Probabilistic Vision--Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation},
-  author    = {Koleilat, Taha and Asgariandehkordi, Hojat, Nejatimanzari, Omid and Barile, Berardino and Xiao, Yiming and Rivaz, Hassan},
-  booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference},
-  year      = {2026}
+@article{koleilat2026medclipseg,
+  title={MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation},
+  author={Koleilat, Taha and Asgariandehkordi, Hojat and Manzari, Omid Nejati and Barile, Berardino and Xiao, Yiming and Rivaz, Hassan},
+  journal={arXiv preprint arXiv:2602.20423},
+  year={2026}
 }
 ```
 
