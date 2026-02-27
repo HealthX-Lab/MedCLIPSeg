@@ -13,11 +13,11 @@
 [Yiming Xiao](https://yimingxiao.weebly.com/curriculum-vitae.html)<sup>†</sup>, 
 [Hassan Rivaz](https://users.encs.concordia.ca/~hrivaz/)<sup>†</sup>
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2602.20423)
-[![Website](https://img.shields.io/badge/Website-Project%20Page-brightgreen.svg)](https://tahakoleilat.github.io/MedCLIPSeg)
-[![Datasets](https://img.shields.io/badge/Datasets-Access-yellow.svg)](https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg)
-[![Models](https://img.shields.io/badge/Models-Reproduce-orange.svg)](https://huggingface.co/TahaKoleilat/MedCLIPSeg)
-[![BibTeX](https://img.shields.io/badge/BibTeX-Cite-blueviolet.svg)](#citation)
+<a href="https://arxiv.org/abs/2602.20423" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.20423-B31B1B?logo=arxiv&logoColor=white" height="25"/></a>
+<a href="https://tahakoleilat.github.io/MedCLIPSeg" target="_blank"><img alt="Project Website" src="https://img.shields.io/badge/%F0%9F%94%97%20Project-Website-blue" height="25"/></a>
+<a href="https://huggingface.co/datasets/TahaKoleilat/MedCLIPSeg" target="_blank"><img alt="HuggingFace Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Datasets-Access-ffc107?color=ffc107&logoColor=white" height="25"/></a>
+<a href="https://huggingface.co/TahaKoleilat/MedCLIPSeg" target="_blank"><img alt="HuggingFace Models" src="https://img.shields.io/badge/Models-Reproduce-2ea44f?logo=huggingface&logoColor=white" height="25"/></a>
+<a href="#citation"><img alt="Citation" src="https://img.shields.io/badge/Citation-BibTeX-6C63FF?logo=bookstack&logoColor=white" height="25"/></a>
 
 † *Co-senior authors*
 </div>
