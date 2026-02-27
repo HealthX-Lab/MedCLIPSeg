@@ -1,5 +1,7 @@
-# MedCLIPSeg: Probabilistic Vision–Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
 <div align="center">
+  
+# MedCLIPSeg: Probabilistic Vision–Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
+
 <h3>CVPR 2026</h3>
 
 **[Health-X Lab](http://www.healthx-lab.ca/)** | **[IMPACT Lab](https://users.encs.concordia.ca/~impact/)** 
